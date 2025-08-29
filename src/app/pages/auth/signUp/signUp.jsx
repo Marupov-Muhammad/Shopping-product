@@ -23,6 +23,9 @@ const SignUp = () => {
   }
 
   const password = watch("password")
+  const a = 0
+  console.log(a);
+  
 
   return (
     <div className="w-full max-w-[500px] mx-auto px-4 py-8 mt-[100px]">
